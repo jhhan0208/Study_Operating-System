@@ -14,26 +14,26 @@ Abraham Silberschatz, Peter B. Galvin, and Greg Gagne, "Operating System Concept
 
 ### 목차
 ■ 컴퓨터 시스템 개요
-  - Chapter 1: Introduction
+  - Chapter 1: 컴퓨터 시스템 개요
 
 ■ 운영체제 개요
-  - Chapter 2: Operating System Structures
+  - Chapter 2: OS 구조
 
 ■ CPU 관리 
-  - Chapter 3: Processes 
-  - Chapter 4: Threads & Concurrency 
-  - Chapter 5: CPU Scheduling 
-  - Chapter 6: Synchronization Tools 
-  - Chapter 7: Synchronization Examples 
-  - Chapter 8: Deadlocks
+  - Chapter 3: 프로세스
+  - Chapter 4: 스레드와 동시성 
+  - Chapter 5: CPU 스케줄링
+  - Chapter 6: 동기화 도구
+  - Chapter 7: 동기화 예시
+  - Chapter 8: 데드락
 
 ■ 메모리 관리 
-  - Chapter 9: Main Memory 
-  - Chapter 10: Virtual Memory
+  - Chapter 9: 메인 메모리 
+  - Chapter 10: 가상 메모리
 
 ■ I/O 관리 
-  - Chapter 11: Mass-Storage Structure 
-  - Chapter 12: I/O Systems 
-  - Chapter 13: File-System Interface 
-  - Chapter 14: File-System Implementation 
-  - Chapter 15: File-System Internals
+  - Chapter 11: 대용량 저장장치 구조
+  - Chapter 12: I/O 시스템
+  - Chapter 13: 파일 시스템 인터페이스
+  - Chapter 14: 파일 시스템 구현 
+  - Chapter 15: 파일 시스템 내부
